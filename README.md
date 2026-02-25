@@ -26,7 +26,7 @@
 
 
 ```
-git clone https://github.com/fishcanf1y/wechat-articles-spider.git
+git clone https://github.com/zer0ptr/wechat-official-accounts-article-spider.git
 
 pip install -r requirment.txt
 ```
@@ -44,7 +44,7 @@ pip install -r requirment.txt
 ```
 python ./main.py 
 ```
-
+    
 
 
 
